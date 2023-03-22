@@ -1,5 +1,4 @@
 import azapi
-import time
 action = 0
 API = azapi.AZlyrics('google', accuracy=0.5)
 
