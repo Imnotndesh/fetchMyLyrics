@@ -1,5 +1,5 @@
 # fetchMyLyrics
-A simple CLI tool that can be used to fetch song lyrics from AZlyrics site using azapi API and saves them in the working directory as a conveniently named .lrc file.
+A simple CLI tool based on azapi API that can be used to fetch song lyrics from AZlyrics site using azapi API and saves them in the working directory as a conveniently named .lrc file.
 
 # Pre-requisites
 In order to run, the following are needed in your computer:
