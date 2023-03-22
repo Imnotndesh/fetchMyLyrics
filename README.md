@@ -6,7 +6,7 @@ In order to run, the following are needed in your computer:
 
 # Azapi
 This can be installed by terminal by use of the following command:
-        # pip install azapi
+        $ pip install azapi
 
 # How to use
 This can be done by executing the lyricsfetch.py file in terminal and following the tooltips in the program.
